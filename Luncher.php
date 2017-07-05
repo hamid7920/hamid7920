@@ -1,4 +1,4 @@
-<?php
+gram.org/bot .@BOTFATHER /);
 /*
 سورس اصلی ربات پی وی رسان
 @PvResanBot
